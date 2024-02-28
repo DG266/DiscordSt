@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DanieleGalloppo 2/28/2024 12:01",
+	"super" : "DSChannelType",
+	"category" : "Discord-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSChannelGuildForumType",
+	"type" : "normal"
+}

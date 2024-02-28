@@ -1,0 +1,1 @@
+I represent Discord Guild Forum channel object .

@@ -1,0 +1,1 @@
+I am a guild forum channel type.

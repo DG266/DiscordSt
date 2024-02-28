@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "DanieleGalloppo 2/28/2024 12:24",
+	"super" : "DSChannel",
+	"category" : "Discord-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"guildId",
+		"position",
+		"permissionOverwrites",
+		"name",
+		"topic",
+		"nsfw",
+		"lastMessageId",
+		"icon",
+		"parentId"
+	],
+	"name" : "DSGuildForumChannel",
+	"type" : "normal"
+}
