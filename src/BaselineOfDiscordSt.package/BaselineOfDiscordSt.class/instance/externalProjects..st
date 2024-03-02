@@ -58,6 +58,5 @@ externalProjects: spec
 			configuration: 'ZincHTTPComponents' with: [ 
 				spec
 					repository: 'github://svenvc/zinc/repository';
-					versionString: #bleedingEdge;
 					loads: 'WebSocket' ]
 	].
